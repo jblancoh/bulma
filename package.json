@@ -1,5 +1,5 @@
 {
-  "name": "bulma",
+  "name": "bulma-test",
   "version": "1.0.0",
   "description": "A modern CSS framework based on Flexbox",
   "main": "index.js",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jblancoh/bulma#readme",
   "dependencies": {
+    "animate.css": "^3.5.2",
+    "bulma": "^0.2.3",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   },
